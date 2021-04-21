@@ -1,4 +1,4 @@
-# graphql-masterclass-youtube
+# Graphql Master Class on youtube
 This repository contains the example project done in GraphQL Master class on youtube.com/krish
 
 ## you can follow the video course/tutorial from the below youtube playlist.
